@@ -1,7 +1,5 @@
-update=Fri 23 Dec 2016 04:57:00 PM ECT
+update=Thu 13 Apr 2017 04:28:06 PM MDT
 last_client=kicad
-[general]
-version=1
 [pcbnew]
 version=1
 LastNetListRead=
@@ -77,3 +75,5 @@ LibName29=atmel
 LibName30=contrib
 LibName31=valves
 LibName32=/home/jake/Dropbox/kicad/modules/Gem-modular
+[general]
+version=1
