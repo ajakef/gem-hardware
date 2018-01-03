@@ -1,4 +1,4 @@
-update=Tue 07 Feb 2017 03:03:25 PM MST
+update=Fri 23 Dec 2016 04:57:00 PM ECT
 last_client=kicad
 [general]
 version=1
@@ -45,7 +45,7 @@ LibName18=valves
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=GEM_0.82-rescue
+LibName1=GEM_0.83-rescue
 LibName2=power
 LibName3=device
 LibName4=transistors
