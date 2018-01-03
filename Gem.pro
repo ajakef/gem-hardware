@@ -1,4 +1,4 @@
-update=Wed 06 Sep 2017 10:55:28 PM MDT
+update=Tue 02 Jan 2018 09:03:59 PM EST
 last_client=kicad
 [pcbnew]
 version=1
@@ -82,6 +82,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=Gem-modular
+LibName30=Gem
 [general]
 version=1

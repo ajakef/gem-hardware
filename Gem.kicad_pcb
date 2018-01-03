@@ -168,7 +168,7 @@
     (add_net VAA)
   )
 
-  (module Gem-modular:ALLSENSORS-A6AAF-CUTLEADS (layer Top) (tedit 594C620F) (tstamp 58EFF333)
+  (module Gem:ALLSENSORS-A6AAF-CUTLEADS (layer Top) (tedit 594C620F) (tstamp 58EFF333)
     (at 6.35 36.703 270)
     (path /561F06F1)
     (attr virtual)
@@ -244,7 +244,7 @@
     (pad "" np_thru_hole circle (at 10.795 0 270) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Mask))
   )
 
-  (module Gem-modular:ARDUINO-NOHOLE-DIM_ON_BDOCU_ONLY locked (layer Top) (tedit 58EFF645) (tstamp 589BBE34)
+  (module Gem:ARDUINO-NOHOLE-DIM_ON_BDOCU_ONLY locked (layer Top) (tedit 58EFF645) (tstamp 589BBE34)
     (at 57.15 1.7145)
     (path /561EE204)
     (attr virtual)
@@ -385,7 +385,7 @@
       (net 33 +BATT))
   )
 
-  (module Gem-modular:EG1218 (layer Top) (tedit 594C6555) (tstamp 58EE4ECB)
+  (module Gem:EG1218 (layer Top) (tedit 594C6555) (tstamp 58EE4ECB)
     (at 26.289 15.875 180)
     (path /561C85BE)
     (fp_text reference S1 (at 5.7785 -3.556 360) (layer F.SilkS)
@@ -435,7 +435,7 @@
       (net 31 GND))
   )
 
-  (module Gem-modular:ADAFRUIT-ULTIMATE-GPS-MOD (layer Top) (tedit 58EEEFA6) (tstamp 58EFF361)
+  (module Gem:ADAFRUIT-ULTIMATE-GPS-MOD (layer Top) (tedit 58EEEFA6) (tstamp 58EFF361)
     (at 58.3565 21.717)
     (path /56545FDA)
     (attr virtual)
@@ -510,7 +510,7 @@
       (net 20 /N$28))
   )
 
-  (module Gem-modular:SO8 (layer Top) (tedit 5917E8B3) (tstamp 589BBE13)
+  (module Gem:SO8 (layer Top) (tedit 5917E8B3) (tstamp 589BBE13)
     (at 35.687 37.211 270)
     (descr "8-LEAD SMALL OUTLINE IC (SO-8)")
     (tags "8-LEAD SMALL OUTLINE IC (SO-8)")
@@ -580,7 +580,7 @@
       (net 23 /N$31))
   )
 
-  (module Gem-modular:SO8 (layer Top) (tedit 59179642) (tstamp 589BBE1E)
+  (module Gem:SO8 (layer Top) (tedit 59179642) (tstamp 589BBE1E)
     (at 34.925 29.337 270)
     (descr "8-LEAD SMALL OUTLINE IC (SO-8)")
     (tags "8-LEAD SMALL OUTLINE IC (SO-8)")
@@ -1360,7 +1360,7 @@
     )
   )
 
-  (module Gem-modular:SC-74A (layer Top) (tedit 594C6917) (tstamp 58AB75B9)
+  (module Gem:SC-74A (layer Top) (tedit 594C6917) (tstamp 58AB75B9)
     (at 33.147 47.371)
     (path /58AB7D04)
     (fp_text reference U2 (at 2.286 -0.127 90) (layer F.SilkS)
@@ -1384,7 +1384,7 @@
       (net 34 "Net-(C5-Pad2)"))
   )
 
-  (module Gem-modular:LED3MM (layer Top) (tedit 590F7186) (tstamp 58EE4EB1)
+  (module Gem:LED3MM (layer Top) (tedit 590F7186) (tstamp 58EE4EB1)
     (at 37.338 18.796 270)
     (descr LED)
     (tags LED)
@@ -1423,7 +1423,7 @@
       (net 31 GND))
   )
 
-  (module Gem-modular:LED3MM (layer Top) (tedit 590F7986) (tstamp 58EE4E41)
+  (module Gem:LED3MM (layer Top) (tedit 590F7986) (tstamp 58EE4E41)
     (at 37.338 12.954 270)
     (descr LED)
     (tags LED)
@@ -1462,7 +1462,7 @@
       (net 31 GND))
   )
 
-  (module Gem-modular:Micro-SD (layer Top) (tedit 59124D89) (tstamp 59127837)
+  (module Gem:Micro-SD (layer Top) (tedit 59124D89) (tstamp 59127837)
     (at 2.921 19.685 90)
     (path /58ED7604)
     (fp_text reference U3 (at 3.048 7.366 180) (layer F.SilkS)
@@ -1502,7 +1502,7 @@
       (net 31 GND))
   )
 
-  (module Gem-modular:TO92-EBC-OVAL (layer Top) (tedit 5917CD53) (tstamp 5917F713)
+  (module Gem:TO92-EBC-OVAL (layer Top) (tedit 5917CD53) (tstamp 5917F713)
     (at 40.767 44.069)
     (descr TO-92)
     (tags TO-92)
@@ -1587,7 +1587,7 @@
     )
   )
 
-  (module Gem-modular:C025-024X044 (layer Top) (tedit 594C68AB) (tstamp 5918CB4E)
+  (module Gem:C025-024X044 (layer Top) (tedit 594C68AB) (tstamp 5918CB4E)
     (at 27.813 38.354 90)
     (descr CAPACITOR)
     (tags CAPACITOR)
@@ -1646,7 +1646,7 @@
     )
   )
 
-  (module Gem-modular:R-TH-VERT (layer Top) (tedit 594C68B2) (tstamp 5918CB64)
+  (module Gem:R-TH-VERT (layer Top) (tedit 594C68B2) (tstamp 5918CB64)
     (at 30.734 34.036 90)
     (path /561C7F7E)
     (fp_text reference R5 (at -5.588 -0.127 180) (layer F.SilkS)
